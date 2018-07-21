@@ -13,9 +13,9 @@ The idea of this repository is to crawl, scrape and analyse the information pres
 How to use:
 <ul>
   <li><a href='https://bit.ly/2s5F26R'>Register in Agência WEB CELESC</a></li>
-  <li>```pip install -r requirements.txt```</li>
-  <li>Crawl and download with ```crawler.ipynb```</li>
-  <li>Scrape .pdfs with ```scraper.ipynb```</li> 
+  <li>pip install -r requirements.txt</li>
+  <li>Crawl and download with crawler.ipynb</li>
+  <li>Scrape .pdfs with scraper.ipynb</li> 
 </ul>
 
 
