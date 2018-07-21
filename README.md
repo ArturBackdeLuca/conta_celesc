@@ -7,4 +7,4 @@ The idea of this repository is to crawl, scrape and analyse the information pres
 </ul>
 
 How to use:
-'''pip install -r requirements.txt'''
+"""pip install -r requirements.txt"""
