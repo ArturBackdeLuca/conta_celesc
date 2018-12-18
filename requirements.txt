@@ -46,8 +46,8 @@ Pygments==2.2.0
 pyquery==1.4.0
 python-dateutil==2.7.2
 pytz==2018.4
-pyzmq==17.1.0
-requests==2.18.4
+pyzmq==17.1.
+requests>=2.20.0
 requests-file==1.4.3
 requests-ftp==0.3.1
 roman==3.0
@@ -59,7 +59,7 @@ snowballstemmer==1.2.1
 tldextract==2.2.0
 tornado==5.1
 traitlets==4.3.2
-urllib3==1.22
+urllib3>=1.23
 wcwidth==0.1.7
 Werkzeug==0.14.1
 wrapt==1.10.11
